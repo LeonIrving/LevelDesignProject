@@ -7,6 +7,14 @@
 		{
 			"Name": "SteamVR",
 			"Enabled": false
+		},
+		{
+			"Name": "PhysXVehicles",
+			"Enabled": false
+		},
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": false
 		}
 	]
 }
